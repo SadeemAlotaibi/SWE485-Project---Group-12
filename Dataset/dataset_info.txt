@@ -1,0 +1,9 @@
+Dataset URL:
+https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster
+
+License:
+CC0: Public Domain
+
+Original Purpose:
+This dataset was created to analyze and estimate obesity levels in individuals from Mexico, Peru and Colombia based on their eating habits and physical condition. It contains 2,111 observations and 17 features including demographic information, lifestyle behaviors, and eating habits. 
+The target variable NObeyesdad classifies individuals into 7 obesity levels ranging from Insufficient Weight to Obesity Type III.
