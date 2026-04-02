@@ -31,7 +31,7 @@ Exploratory Data Analysis (EDA), including statistical analysis and visualizatio
 
 * Preprocessing & Visualization Team: 
 Madhawi Altamimi (Dataset validation, data cleaning (duplicate removal, BMI feature engineering, dropping Height & Weight columns)) ,
-Rand Al himali: Label encoding, normalization, and saving the preprocessed dataset 
+Rand Al himali (Label encoding, normalization, and saving the preprocessed dataset)
 Preprocessing visualizations was a shared task between Madhawi & Rand
   
 * Modeling & Evaluation Team: Hala Elkahlout (SVM & Random Forest), Sadeem AlOtaibi (XGBoost & Logistic Regression), The Comparative Analysis & Interpretation was a shared task between Hala & Sadeem 
