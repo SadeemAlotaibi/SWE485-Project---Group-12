@@ -15,7 +15,7 @@ levels and provide personalized health advice using machine learning.
 ## Group Members
 Madhawi Altamimi - 443201521
 
-Hala Alkahlout   - 444204522
+Hala Elkahlout   - 444204522
 
 Sadeem AlOtaibi  - 444200392
 
@@ -23,4 +23,9 @@ Waad AlQahtani   - 444200473
 
 Rahaf AlEid      - 442201256
 
-Rand Al          - 443200441
+Rand Al himali         - 443200441
+
+## Task Distribution
+* Data & Domain Team: Rahaf AlEid , Waad AlQahtani
+* Preprocessing & Visualization Team: Madhawi Altamimi, Rand Al himali
+* Modeling & Evaluation Team: Hala Elkahlout (SVM & Random Forest), Sadeem AlOtaibi (XGBoost & Logistic Regression), The Comparative Analysis & Interpretation was a shared task between Hala & Sadeem 
