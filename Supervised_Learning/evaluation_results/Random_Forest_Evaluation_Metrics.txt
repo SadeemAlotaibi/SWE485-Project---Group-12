@@ -1,0 +1,18 @@
+Random Forest Evaluation Results
+Accuracy Score: 0.9713
+
+F1-Score (macro): 0.9703
+ROC-AUC (OvR macro):0.9994
+              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98        53
+           1       0.89      1.00      0.94        57
+           2       0.99      1.00      0.99        70
+           3       1.00      0.97      0.98        60
+           4       0.98      1.00      0.99        65
+           5       0.96      0.95      0.95        55
+           6       0.98      0.91      0.95        58
+
+    accuracy                           0.97       418
+   macro avg       0.97      0.97      0.97       418
+weighted avg       0.97      0.97      0.97       418

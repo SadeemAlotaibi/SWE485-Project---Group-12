@@ -1,0 +1,18 @@
+SVM Final Evaluation Results
+Accuracy Score: 0.9330
+
+F1-Score (macro): 0.9307
+ROC-AUC (OvR macro):0.9955
+              precision    recall  f1-score   support
+
+           0       0.95      0.98      0.96        53
+           1       0.90      0.82      0.86        57
+           2       0.94      0.97      0.96        70
+           3       0.95      0.93      0.94        60
+           4       0.98      0.98      0.98        65
+           5       0.86      0.89      0.88        55
+           6       0.93      0.93      0.93        58
+
+    accuracy                           0.93       418
+   macro avg       0.93      0.93      0.93       418
+weighted avg       0.93      0.93      0.93       418
