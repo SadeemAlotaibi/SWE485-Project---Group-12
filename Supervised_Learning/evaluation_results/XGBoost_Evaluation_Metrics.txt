@@ -1,0 +1,18 @@
+XGBoost Evaluation Results
+Accuracy Score: 0.9809
+
+F1-Score (macro): 0.9800
+ROC-AUC (OvR macro): 0.9998
+                     precision    recall  f1-score   support
+
+Insufficient Weight       1.00      0.96      0.98        53
+      Normal Weight       0.93      1.00      0.97        57
+ Overweight Level I       1.00      1.00      1.00        70
+Overweight Level II       0.98      0.98      0.98        60
+     Obesity Type I       0.98      0.98      0.98        65
+    Obesity Type II       1.00      0.93      0.96        55
+   Obesity Type III       0.97      1.00      0.98        58
+
+           accuracy                           0.98       418
+          macro avg       0.98      0.98      0.98       418
+       weighted avg       0.98      0.98      0.98       418

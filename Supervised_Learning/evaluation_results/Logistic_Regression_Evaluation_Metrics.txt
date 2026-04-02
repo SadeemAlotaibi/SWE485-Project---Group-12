@@ -1,0 +1,18 @@
+Logistic Regression Evaluation Results
+Accuracy Score: 0.7488
+
+F1-Score (macro): 0.7435
+ROC-AUC (OvR macro): 0.9268
+                     precision    recall  f1-score   support
+
+Insufficient Weight       0.98      1.00      0.99        53
+      Normal Weight       0.68      0.47      0.56        57
+ Overweight Level I       0.62      0.73      0.67        70
+Overweight Level II       0.89      0.97      0.93        60
+     Obesity Type I       0.98      0.98      0.98        65
+    Obesity Type II       0.62      0.56      0.59        55
+   Obesity Type III       0.47      0.50      0.48        58
+
+           accuracy                           0.75       418
+          macro avg       0.75      0.75      0.74       418
+       weighted avg       0.75      0.75      0.74       418
