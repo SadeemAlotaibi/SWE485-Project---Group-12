@@ -28,5 +28,7 @@ Rand Al himali         - 443200441
 ## Task Distribution
 * Data & Domain Team: Waad AlQahtani (Problem Definition & Initial Data Inspection), Rahaf AlEid  (Dataset Selection & Justification),
 Exploratory Data Analysis (EDA), including statistical analysis and visualization, was a shared task between Waad & Rahaf.
+
 * Preprocessing & Visualization Team: Madhawi Altamimi, Rand Al himali
+  
 * Modeling & Evaluation Team: Hala Elkahlout (SVM & Random Forest), Sadeem AlOtaibi (XGBoost & Logistic Regression), The Comparative Analysis & Interpretation was a shared task between Hala & Sadeem 
