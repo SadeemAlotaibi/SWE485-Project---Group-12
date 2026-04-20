@@ -1,9 +1,9 @@
 K-Means (k=5):
-- Silhouette Score: ~0.25
+- Silhouette Score: ~0.30
 - Davies-Bouldin Index: ~1.40
 
 Hierarchical Clustering:
-- Silhouette Score: ~0.19
+- Silhouette Score: ~0.25
 - Davies-Bouldin Index: ~1.70
 
 Conclusion:
