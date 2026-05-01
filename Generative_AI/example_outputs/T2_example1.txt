@@ -1,0 +1,16 @@
+Template: T2 — Detailed Clinical Explanation
+Input Features: Age: 45, Symptoms: chest pain and shortness of breath, BMI: 28.5
+Prediction: Cardiology specialist referral recommended
+
+--- OUTPUT ---
+### Prediction Explanation
+The model likely predicted a referral to a cardiology specialist due to the patient's presenting symptoms of chest pain and shortness of breath, which are commonly associated with cardiovascular conditions. Additionally, the patient's age and elevated BMI may contribute to an increased risk of heart disease, prompting the need for specialized evaluation.
+
+### Key Risk Factors
+The most clinically significant features in this case are the patient's age (45 years), symptoms of chest pain and shortness of breath, and a BMI of 28.5, which classifies them as overweight. These factors collectively heighten the likelihood of underlying cardiovascular issues, warranting further investigation by a specialist.
+
+### Recommended Actions
+The caregiver should facilitate an urgent referral to a cardiology specialist for comprehensive evaluation, including possible diagnostic tests such as an echocardiogram, stress test, or cardiac catheterization. It is also important to monitor the patient's vital signs and consider starting lifestyle modifications, such as dietary changes and increased physical activity, while awaiting the specialist's input.
+
+### Warning Signs
+Immediate medical attention is required if the patient experiences worsening chest pain, symptoms of a heart attack (such as radiating pain to the arm or jaw, sweating, or nausea), or severe shortness of breath that cannot be alleviated. Additionally, if the patient loses consciousness or experiences confusion, these are critical signs that necessitate urgent care.

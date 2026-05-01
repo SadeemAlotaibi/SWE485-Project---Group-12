@@ -1,0 +1,8 @@
+Template: T1 — Basic Advice
+Input Features: Age: 45, Symptoms: chest pain and shortness of breath, BMI: 28.5
+Prediction: Cardiology specialist referral recommended
+
+--- OUTPUT ---
+Based on your age, symptoms like chest pain and shortness of breath, and your body weight, our system suggests that you should see a heart doctor (a cardiologist). This is important because these symptoms could be serious and need further evaluation. 
+
+In the meantime, try to avoid any strenuous activities, pay attention to how you're feeling, and don’t hesitate to seek immediate help if your symptoms worsen. It’s always best to be safe when it comes to your heart health.

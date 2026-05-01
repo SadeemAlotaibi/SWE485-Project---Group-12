@@ -1,0 +1,14 @@
+{
+  "T1": {
+    "name": "Basic Advice",
+    "model": "gpt-4o-mini",
+    "system_message": null,
+    "template": "A patient has the following characteristics:\n{features}\n\nOur system predicted: {prediction}\n\nPlease give a simple, plain-language explanation of this result and basic advice. Keep the response under 120 words. Avoid technical jargon."
+  },
+  "T2": {
+    "name": "Detailed Clinical Explanation",
+    "model": "gpt-4o-mini",
+    "system_message": "You are a clinical decision-support assistant. Provide structured, evidence-based explanations to help caregivers and healthcare students understand ML-driven medical predictions.",
+    "template": "Patient Profile:\n{features}\n\nML Model Prediction: {prediction}\n\nProvide a structured response with exactly these four sections:\n1. Prediction Explanation \u2014 Why did the model likely predict this?\n2. Key Risk Factors \u2014 Which features are most clinically significant?\n3. Recommended Actions \u2014 What specific steps should be taken?\n4. Warning Signs \u2014 What symptoms require immediate medical attention?\n\nKeep each section to 2-3 sentences. Target audience: healthcare students and caregivers."
+  }
+}
