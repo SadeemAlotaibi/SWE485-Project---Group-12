@@ -1,0 +1,18 @@
+Template: T1 — Basic Advice
+Test Case: TC2 — Normal Weight
+Input Features:
+Gender: Male, Age: 22, Height: 1.64m, Weight: 53.0kg, BMI: 19.7
+Family history of overweight: no
+Frequent high-caloric food (FAVC): no
+Vegetable consumption (FCVC): 2.0/3, Meals per day (NCP): 3.0
+Eating between meals (CAEC): Sometimes
+Smoker: no, Daily water (CH2O): 2.0L
+Calorie monitoring (SCC): no
+Physical activity frequency (FAF): 3.0/3
+Technology use time (TUE): 0.0hrs
+Alcohol consumption (CALC): Sometimes
+Main transportation: Public_Transportation
+Prediction: Normal Weight
+
+--- OUTPUT ---
+Based on your details, you have a healthy weight for your height and age, which means you are in the "normal weight" range. This is a good sign for your overall health. To maintain your weight, keep eating a balanced diet with plenty of vegetables and stay active, as you already do. Try to limit alcohol and snacks between meals. Drinking enough water is great, too! Remember, staying active and making healthy food choices is important for your well-being. If you have any concerns or want personalized advice, consider talking to a healthcare professional.

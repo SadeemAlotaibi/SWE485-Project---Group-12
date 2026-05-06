@@ -1,0 +1,28 @@
+Template: T2 — Detailed Clinical Explanation
+Test Case: TC1 — Severe Obesity (Obesity Type III)
+Input Features:
+Gender: Female, Age: 26, Height: 1.56m, Weight: 102.0kg, BMI: 41.9
+Family history of overweight: yes
+Frequent high-caloric food (FAVC): yes
+Vegetable consumption (FCVC): 3.0/3, Meals per day (NCP): 3.0
+Eating between meals (CAEC): Sometimes
+Smoker: yes, Daily water (CH2O): 1.0L
+Calorie monitoring (SCC): no
+Physical activity frequency (FAF): 0.0/3
+Technology use time (TUE): 1.0hrs
+Alcohol consumption (CALC): Sometimes
+Main transportation: Public_Transportation
+Prediction: Obesity Type III
+
+--- OUTPUT ---
+### 1. Prediction Explanation
+The model likely predicted Obesity Type III due to the patient's high BMI of 41.9, indicating severe obesity. Additionally, the combination of high caloric intake, sedentary lifestyle (0 physical activity), and smoking can exacerbate weight-related health risks, reinforcing the classification of Obesity Type III.
+
+### 2. Key Risk Factors
+The most clinically significant features include the patient's BMI, frequent consumption of high-caloric foods, and lack of physical activity. Family history of overweight and smoking status also contribute to the risk profile, as they can influence both metabolic health and lifestyle choices.
+
+### 3. Recommended Actions
+To address the obesity classification, it is essential to implement a structured weight management plan that includes dietary changes to reduce high-caloric food intake and increase vegetable consumption. Encouraging regular physical activity and smoking cessation should also be prioritized, along with education on calorie monitoring and hydration.
+
+### 4. Warning Signs
+The patient should seek immediate medical attention if they experience symptoms such as chest pain, difficulty breathing, extreme fatigue, or swelling in the legs, as these may indicate serious health complications related to obesity. Additionally, any sudden changes in weight or appetite should also prompt a consultation with a healthcare provider.

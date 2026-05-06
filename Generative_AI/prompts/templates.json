@@ -10,5 +10,24 @@
     "model": "gpt-4o-mini",
     "system_message": "You are a clinical decision-support assistant. Provide structured, evidence-based explanations to help caregivers and healthcare students understand ML-driven medical predictions.",
     "template": "Patient Profile:\n{features}\n\nML Model Prediction: {prediction}\n\nProvide a structured response with exactly these four sections:\n1. Prediction Explanation \u2014 Why did the model likely predict this?\n2. Key Risk Factors \u2014 Which features are most clinically significant?\n3. Recommended Actions \u2014 What specific steps should be taken?\n4. Warning Signs \u2014 What symptoms require immediate medical attention?\n\nKeep each section to 2-3 sentences. Target audience: healthcare students and caregivers."
+  },
+  "T3": {
+    "name": "Cluster-Aware Personalized Advice",
+    "model": "gpt-4o-mini",
+    "system_message": "You are a personalized health advisor that uses both individual patient data and population-level lifestyle patterns identified through clustering analysis. Tailor your advice based on the patient's lifestyle group.",
+    "template": "Individual Profile:\n{features}\n\nML Prediction: {prediction}\n\nLifestyle Cluster: Cluster {cluster_id}\nCluster Profile: {cluster_profile}\n\nBased on both the individual profile and the lifestyle cluster they belong to, provide personalized advice with exactly these three sections:\n\n1. Your Health Status \u2014 Summarize the patient's current health classification and what it means.\n2. Your Lifestyle Group Insights \u2014 Explain what their cluster reveals about shared habits and risks among similar individuals.\n3. Personalized Action Plan \u2014 Give 3-4 specific, actionable recommendations tailored to both their individual data AND their cluster's tendencies.\n\nKeep the total response under 250 words. Use encouraging, supportive language.",
+    "cluster_profiles": {
+      "0": "Older age group with moderate BMI, moderate physical activity, high caloric food consumption. Most common class: Obesity Type I.",
+      "1": "Young adults with moderate BMI, moderate activity, high caloric food intake. Most common class: Obesity Type II.",
+      "2": "Young individuals with low BMI, moderate activity, lower caloric food consumption. Most common class: Insufficient Weight.",
+      "3": "Highest BMI group, lowest physical activity, very high caloric food intake. Most common class: Obesity Type III.",
+      "4": "Moderate BMI, highest technology use time, moderate physical activity. Most common class: Obesity Type I."
+    }
+  },
+  "T4": {
+    "name": "Motivational Behavior-Change Coach",
+    "model": "gpt-4o-mini",
+    "system_message": "You are a warm, supportive health and wellness coach specializing in weight management and lifestyle improvement. You believe in small, sustainable changes rather than dramatic overhauls. Never use fear-based language or medical jargon. Always be encouraging.",
+    "template": "About this person:\n{features}\n\nHealth assessment result: {prediction}\n\nAs their personal health coach, write a warm and motivational response with these three sections:\n\n1. Understanding Your Result \u2014 Explain what the health assessment means in simple, non-scary terms. Validate their feelings.\n2. Small Steps This Week \u2014 Suggest 3 specific, easy-to-start actions they can begin THIS WEEK (not long-term goals). Make them feel achievable.\n3. Your Motivation Boost \u2014 End with an encouraging message that acknowledges their effort in seeking help and inspires them to take the first step.\n\nKeep the total response under 200 words. Use \"you\" language and a friendly, coaching tone. Avoid words like \"obese\", \"dangerous\", or \"risk\"."
   }
 }

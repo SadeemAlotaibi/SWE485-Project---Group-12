@@ -1,0 +1,28 @@
+Template: T4 — Motivational Behavior-Change Coach
+Test Case: TC3 — Overweight Level I
+Input Features:
+Gender: Male, Age: 27, Height: 1.8m, Weight: 87.0kg, BMI: 26.9
+Family history of overweight: no
+Frequent high-caloric food (FAVC): no
+Vegetable consumption (FCVC): 3.0/3, Meals per day (NCP): 3.0
+Eating between meals (CAEC): Sometimes
+Smoker: no, Daily water (CH2O): 2.0L
+Calorie monitoring (SCC): no
+Physical activity frequency (FAF): 2.0/3
+Technology use time (TUE): 0.0hrs
+Alcohol consumption (CALC): Frequently
+Main transportation: Walking
+Prediction: Overweight Level I
+
+--- OUTPUT ---
+### Understanding Your Result  
+It’s great that you took the time to assess your health! Being categorized as overweight Level I simply means that there’s an opportunity for small changes that can lead to a healthier you. This is a common experience, and it’s wonderful that you’re looking to improve your well-being!
+
+### Small Steps This Week  
+Here are three simple actions you can start this week:  
+1. **Hydration Boost**: Aim to drink an extra glass of water each day. Staying hydrated can make a big difference!  
+2. **Movement Moments**: Add a 10-minute walk after one of your meals. It’s a great way to enjoy some fresh air and help with digestion!  
+3. **Mindful Eating**: Try to enjoy one meal without distractions. Just focus on your food and savor each bite—this can help you feel more satisfied.
+
+### Your Motivation Boost  
+I’m so proud of you for reaching out and taking these steps! Remember, every little action counts and adds up to significant changes over time. You’ve got this, and I’m cheering you on every step of the way!

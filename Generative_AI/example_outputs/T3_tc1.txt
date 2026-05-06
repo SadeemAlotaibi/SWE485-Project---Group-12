@@ -1,0 +1,31 @@
+Template: T3 — Cluster-Aware Personalized Advice
+Test Case: TC1 — Severe Obesity (Obesity Type III)
+Input Features:
+Gender: Female, Age: 26, Height: 1.56m, Weight: 102.0kg, BMI: 41.9
+Family history of overweight: yes
+Frequent high-caloric food (FAVC): yes
+Vegetable consumption (FCVC): 3.0/3, Meals per day (NCP): 3.0
+Eating between meals (CAEC): Sometimes
+Smoker: yes, Daily water (CH2O): 1.0L
+Calorie monitoring (SCC): no
+Physical activity frequency (FAF): 0.0/3
+Technology use time (TUE): 1.0hrs
+Alcohol consumption (CALC): Sometimes
+Main transportation: Public_Transportation
+Prediction: Obesity Type III
+Cluster: 3
+
+--- OUTPUT ---
+### 1. Your Health Status
+You are classified as having Obesity Type III, which indicates a higher risk for various health issues such as heart disease, diabetes, and joint problems. Your BMI of 41.9 places you in the highest obesity category, meaning that it’s crucial to make changes to enhance your overall health and well-being.
+
+### 2. Your Lifestyle Group Insights
+As part of Cluster 3, you share habits with individuals who have similar challenges, including high caloric food intake and low physical activity. This group often struggles with weight management and may face increased risks for related health conditions. Understanding this can help you recognize that you are not alone and that changes can lead to significant improvements.
+
+### 3. Personalized Action Plan
+1. **Nutrition Focus**: Gradually reduce high-caloric foods by incorporating more nutrient-dense options. Aim to increase vegetable intake beyond your current level of 3 servings per day.
+2. **Hydration**: Increase your water intake to at least 2-3 liters daily. This can help manage hunger and improve overall health.
+3. **Physical Activity**: Start with small, achievable goals—like a 10-minute daily walk. Gradually increase this time as you feel more comfortable.
+4. **Smoking Cessation**: Consider seeking support to quit smoking, as it can significantly improve your overall health and weight management efforts.
+
+Remember, small changes can lead to big results. You're on the right path, and I’m here to support you!

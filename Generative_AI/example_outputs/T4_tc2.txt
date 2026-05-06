@@ -1,0 +1,28 @@
+Template: T4 — Motivational Behavior-Change Coach
+Test Case: TC2 — Normal Weight
+Input Features:
+Gender: Male, Age: 22, Height: 1.64m, Weight: 53.0kg, BMI: 19.7
+Family history of overweight: no
+Frequent high-caloric food (FAVC): no
+Vegetable consumption (FCVC): 2.0/3, Meals per day (NCP): 3.0
+Eating between meals (CAEC): Sometimes
+Smoker: no, Daily water (CH2O): 2.0L
+Calorie monitoring (SCC): no
+Physical activity frequency (FAF): 3.0/3
+Technology use time (TUE): 0.0hrs
+Alcohol consumption (CALC): Sometimes
+Main transportation: Public_Transportation
+Prediction: Normal Weight
+
+--- OUTPUT ---
+### Understanding Your Result  
+Great job on your health assessment! With a BMI of 19.7, you’re in the normal weight range, which means you’re doing well in maintaining a healthy balance. It’s wonderful that you’re taking the time to focus on your health, and it’s completely normal to want to make improvements along the way.
+
+### Small Steps This Week  
+Here are three small, achievable steps you can start this week:  
+1. **Add One Extra Serving of Veggies:** Try to include one more serving of vegetables in your meals. It could be a side salad or some steamed veggies.  
+2. **Mindful Snack Choices:** If you find yourself snacking between meals, consider healthier options like fruit or nuts to keep your energy up.  
+3. **Hydration Reminder:** You’re already doing well with your water intake! Try setting a reminder on your phone to help you keep drinking throughout the day.
+
+### Your Motivation Boost  
+I’m so proud of you for seeking support on your journey! Remember, every small step counts, and you’re already on your way to making positive changes. Keep believing in yourself—you’ve got this!

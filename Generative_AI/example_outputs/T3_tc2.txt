@@ -1,0 +1,31 @@
+Template: T3 — Cluster-Aware Personalized Advice
+Test Case: TC2 — Normal Weight
+Input Features:
+Gender: Male, Age: 22, Height: 1.64m, Weight: 53.0kg, BMI: 19.7
+Family history of overweight: no
+Frequent high-caloric food (FAVC): no
+Vegetable consumption (FCVC): 2.0/3, Meals per day (NCP): 3.0
+Eating between meals (CAEC): Sometimes
+Smoker: no, Daily water (CH2O): 2.0L
+Calorie monitoring (SCC): no
+Physical activity frequency (FAF): 3.0/3
+Technology use time (TUE): 0.0hrs
+Alcohol consumption (CALC): Sometimes
+Main transportation: Public_Transportation
+Prediction: Normal Weight
+Cluster: 1
+
+--- OUTPUT ---
+1. **Your Health Status**  
+You are classified as having a Normal Weight with a BMI of 19.7. This indicates you are within a healthy weight range, which is great! Maintaining this status is important for your overall well-being and can help reduce the risk of chronic diseases.
+
+2. **Your Lifestyle Group Insights**  
+As part of Cluster 1, you belong to a group of young adults who typically show moderate BMI and activity levels but also have a tendency toward high caloric food intake. This cluster often faces challenges related to obesity, especially Type II. Awareness of these shared habits can empower you to make healthier choices and avoid potential pitfalls.
+
+3. **Personalized Action Plan**  
+- **Enhance Vegetable Intake**: Aim to increase your vegetable consumption to 3/3. Try incorporating a variety of colorful veggies into your meals for better nutrition.  
+- **Monitor Caloric Intake**: Start tracking your calorie intake. This awareness can help you maintain your current weight and avoid excessive high-caloric foods, which can be tempting in your cluster.  
+- **Stay Active**: Continue your physical activity regimen, but consider increasing the frequency or intensity to further boost your fitness and overall health.  
+- **Limit Alcohol Consumption**: Since you consume alcohol sometimes, try to minimize it or choose healthier options, as this can impact your weight and overall health.  
+
+Embrace these changes, and remember, small steps can lead to significant improvements!

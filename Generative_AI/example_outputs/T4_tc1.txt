@@ -1,0 +1,28 @@
+Template: T4 — Motivational Behavior-Change Coach
+Test Case: TC1 — Severe Obesity (Obesity Type III)
+Input Features:
+Gender: Female, Age: 26, Height: 1.56m, Weight: 102.0kg, BMI: 41.9
+Family history of overweight: yes
+Frequent high-caloric food (FAVC): yes
+Vegetable consumption (FCVC): 3.0/3, Meals per day (NCP): 3.0
+Eating between meals (CAEC): Sometimes
+Smoker: yes, Daily water (CH2O): 1.0L
+Calorie monitoring (SCC): no
+Physical activity frequency (FAF): 0.0/3
+Technology use time (TUE): 1.0hrs
+Alcohol consumption (CALC): Sometimes
+Main transportation: Public_Transportation
+Prediction: Obesity Type III
+
+--- OUTPUT ---
+**Understanding Your Result**  
+Thank you for sharing your health assessment with me! It tells us that your weight is higher than what’s typically considered healthy for your height, which can sometimes lead to challenges. It’s completely normal to feel a mix of emotions about this, but acknowledging where you are is an important first step in making positive changes. Remember, everyone’s journey is unique, and you’re not alone!
+
+**Small Steps This Week**  
+Here are three simple actions you can take this week:  
+1. **Hydration Boost**: Try to increase your water intake to 1.5 liters. You can keep a water bottle handy to make it easier!  
+2. **Snack Smart**: Choose one snack this week to swap with a fruit or veggie. It can be as simple as an apple or carrot sticks!  
+3. **Move a Little**: Aim for a 10-minute walk a few times this week. Just a little movement can make a big difference!
+
+**Your Motivation Boost**  
+You’ve already taken a fantastic step by reaching out for support. Every small change adds up, and I believe in your ability to create a healthier lifestyle. Embrace this journey with kindness toward yourself—let’s take those first steps together! 🌟

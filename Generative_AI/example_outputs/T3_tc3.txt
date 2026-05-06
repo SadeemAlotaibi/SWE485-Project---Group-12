@@ -1,0 +1,31 @@
+Template: T3 — Cluster-Aware Personalized Advice
+Test Case: TC3 — Overweight Level I
+Input Features:
+Gender: Male, Age: 27, Height: 1.8m, Weight: 87.0kg, BMI: 26.9
+Family history of overweight: no
+Frequent high-caloric food (FAVC): no
+Vegetable consumption (FCVC): 3.0/3, Meals per day (NCP): 3.0
+Eating between meals (CAEC): Sometimes
+Smoker: no, Daily water (CH2O): 2.0L
+Calorie monitoring (SCC): no
+Physical activity frequency (FAF): 2.0/3
+Technology use time (TUE): 0.0hrs
+Alcohol consumption (CALC): Frequently
+Main transportation: Walking
+Prediction: Overweight Level I
+Cluster: 1
+
+--- OUTPUT ---
+### Your Health Status  
+You are classified as Overweight Level I with a BMI of 26.9. This indicates that you are slightly above the normal weight range, which may increase your risk for health issues if not addressed. Taking proactive steps can help you move towards a healthier weight and improve overall well-being.
+
+### Your Lifestyle Group Insights  
+As part of Cluster 1, you share habits with young adults who have moderate BMI and activity levels, but also a tendency towards high caloric intake. This cluster often faces challenges with weight management, making it essential to adopt healthier eating and lifestyle habits to mitigate risks associated with obesity.
+
+### Personalized Action Plan  
+1. **Reduce Alcohol Intake**: Aim to limit your alcohol consumption, as frequent intake can contribute to weight gain. Consider setting specific days for moderation or exploring alternatives.
+2. **Increase Physical Activity**: Try to engage in at least 150 minutes of moderate aerobic activity weekly. Incorporate activities you enjoy, such as brisk walking or cycling, to make it sustainable.
+3. **Mindful Eating Practices**: Work on reducing snacking between meals by practicing mindful eating. Focus on portion sizes and consider meal prepping to avoid high-caloric temptations.
+4. **Hydration Boost**: While you're drinking 2.0L of water daily, aim to increase this slightly to support metabolism and curb hunger.
+
+By implementing these changes, you can create a healthier lifestyle while enjoying your journey towards well-being!
