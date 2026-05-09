@@ -8,7 +8,7 @@
 Fabio Mendoza Palechor and Alexis de la Hoz Manotas (2019).
 *Dataset for Estimation of Obesity Levels Based on Eating Habits and Physical Condition.*
 UCI Machine Learning Repository / Kaggle.
-https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyresponsibly
+https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster 
 
 ---
 
