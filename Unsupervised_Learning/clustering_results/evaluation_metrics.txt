@@ -1,0 +1,16 @@
+K-Means (k=5):
+- Silhouette Score: 0.2954
+- Davies-Bouldin Index: 1.4037
+- WCSS: 2239.7646
+- BCubed Precision: 0.2748
+- BCubed Recall: 0.3954
+- BCubed F1: 0.3242
+
+Hierarchical Clustering (k=5):
+- Silhouette Score: 0.2490
+- Davies-Bouldin Index: 1.7046
+- BCubed Precision: 0.3057
+- BCubed Recall: 0.4161
+- BCubed F1: 0.3525
+
+Conclusion: K-Means selected as final model.
