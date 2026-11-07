@@ -1,4 +1,4 @@
-# SW485-Project - Group 12
+# SWE485-Project - Group 12
 
 ## Project Title
 Obesity Risk Classification and Lifestyle Advice System
